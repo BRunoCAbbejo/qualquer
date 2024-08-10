@@ -1,0 +1,13 @@
+.container{
+    display: inline-block;
+    background: url(cidade.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+    position: relative;
+}
+.fixo a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-decoration: none;
+}
